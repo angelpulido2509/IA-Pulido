@@ -1,6 +1,6 @@
 # 📚 PRÁCTICA I - FUNDAMENTOS DE LA INTELIGENCIA ARTIFICIAL
 
-## 👨‍💻 Autor: [Tu Nombre Aquí]
+## 👨‍💻 Autor: Ángel Pulido 
 
 Este repositorio aloja la primera práctica de estudio e investigación sobre los pilares fundamentales de la Inteligencia Artificial (IA). El objetivo es establecer una base teórica sólida y comprender las tecnologías clave que impulsan el desarrollo moderno de la IA.
 
